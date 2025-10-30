@@ -8,26 +8,19 @@ In this project, I analyzed a marketing campaign dataset to uncover insights tha
 
 **Process & Implementation:**
 
-1.
-Imported the raw dataset into Power BI and performed basic cleaning.
+1.Imported the raw dataset into Power BI and performed basic cleaning.
 
-2.
-Designed an interactive dashboard with a proper title and formatting for clear presentation.
+2.Designed an interactive dashboard with a proper title and formatting for clear presentation.
 
-3.
-Created a Pie Chart to analyze campaign acceptance rates, providing visibility into customer response patterns.
+3.Created a Pie Chart to analyze campaign acceptance rates, providing visibility into customer response patterns.
 
-4.
-Built a Scatter Chart to study the relationship between customer income and spending by creating a new Spending column using DAX.
+4.Built a Scatter Chart to study the relationship between customer income and spending by creating a new Spending column using DAX.
 
-5.
-Added a Column Chart to analyze spending behavior across education levels.
+5.Added a Column Chart to analyze spending behavior across education levels.
 
-6.
-Developed a Line & Column Chart to track customer complaints and their impact on campaign outcomes.
+6.Developed a Line & Column Chart to track customer complaints and their impact on campaign outcomes.
 
-7.
-Customized visuals with clear titles, renamed fields, and adjusted chart types for better readability.
+7.Customized visuals with clear titles, renamed fields, and adjusted chart types for better readability.
 
 **Key Insights Gained:**
 
